@@ -1,0 +1,17 @@
+body
+{
+    background-image: linear-gradient(lightblue,rgb(175, 159, 200), rgb(223, 167, 240),   lightpink, lightcoral);
+    background-size: cover;
+   background-repeat: no-repeat;
+   height: 100vh;
+   
+}
+
+.menu
+{
+    width: 350px;
+    margin: 8%;
+    padding: 10pxss;
+    background-color:rgba(0,0,0,0.23);
+}
+
